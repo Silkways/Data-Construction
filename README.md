@@ -19,11 +19,11 @@ Primary Goals:
 
 Construct data in such a way as to get the following features:
 
-The name of the team
-The total number of goals scored by the team during the 2011 season
-The total number of wins the team earned during the 2011 season
-A histogram visualization of the team's wins and losses for the 2011 season (store the visualization directly)
-The team's win percentage on days where it was raining during games in the 2011 season.
+  - The name of the team
+  - The total number of goals scored by the team during the 2011 season
+  - The total number of wins the team earned during the 2011 season
+  - A histogram visualization of the team's wins and losses for the 2011 season (store the visualization directly)
+  - The team's win percentage on days where it was raining during games in the 2011 season.
 
 Secondary Goals: 
 
@@ -39,5 +39,11 @@ The Git repo contains:
    - SQL Database (database.sqlite) containing the relevant support tables 
    - An exhaustive data set containing weather data (final_weather_set.csv) stored to avoid having to use too many API calls 
    - An image summarising results used for the conversion to base64 and storage to Mongo
-   
-   
+ 
+ Conclusion / Follow-ups: 
+ 
+ Project completed and provided interesting insights in terms of structuring data and working with a diverse set of tools. 
+ For future iterations, classes should be included and used more frequently to avoid repetitive code. 
+ Visualisations should be  more numerous and split by team. 
+ 
+ 
